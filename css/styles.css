@@ -15,12 +15,11 @@ a{
 .logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    ccolor: #4d5ae5;
-
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
 }
 .header-logo{
     font-family: "Raleway", sans-serif;
@@ -86,11 +85,14 @@ color: #404bbf;
         background-color: #4d5ae5;
         cursor: pointer;
 }
+
 .section-one-btn:hover{
     color: #404bbf;
+    background-color: #404BBF
 }
 .section-one-btn:focus{
     color: #404bbf;
+    background-color: #404BBF
 }
 
 /* Setion two  */
@@ -175,7 +177,7 @@ font-weight: 700;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
         font-size: 16px;
-        line-height: 1.5;
+        line-height: 1.17;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
